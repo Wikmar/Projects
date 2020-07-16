@@ -13,20 +13,20 @@ _Note: Data directory is used for demonstration purposes only._
   - [Visualising Earnings Based On College Majors](https://github.com/willclist/Projects/blob/master/visualisation/VisualisingEarningsOnMajors.ipynb): Explores a cleaned dataset of outcomes of students who graduated from college between 2010 and 2012. Answers questions such as if popular majors make more money, male/female ratio and quantity of students in respective categories.
   - [Finding The Best Markets To Advertise In](https://github.com/willclist/Projects/blob/master/stats/BestMarkets.ipynb): Using freeCodeCamp's 2017 survey which contain approximately 20,000 developers, we clean and analyse the dataset to identify the best markets to advertise an e-learning company i.e. as cheaply as feasible and to reach the optimal number of prospective clients.
   
-  *Tools: numpy, scikit-learn, Pandas, Seaborn, Matplotlib*
+  *Tools: Numpy, scikit-learn, Pandas, Seaborn, Matplotlib*
 
 - ### Machine Learning
 
 	- [Forecasting Future Demand Of Power Consumption](https://github.com/willclist/Projects/blob/master/Household_Power_Consumption.ipynb): Exploratory analysis of a dataset describing electricity consumption of an individual household over a period of 4 years. Implements a recurrent neural network and an autoregressive model to forecast future demand.
 	- [Predicting House Sale Prices](https://github.com/willclist/Projects/blob/master/machinelearning/PredictingHouseSales.ipynb): Delves into using linear regression and how to improve it via data cleaning and cross validation, reducing the RMSE. We predict the Sale Price of houses in Iowa.
-  - [Predicting Car Prices](https://github.com/willclist/Projects/blob/master/machinelearning/PredictingHouseSales.ipynb):
-  - [Building a Handwritten Digits Classifier](https://github.com/willclist/Projects/blob/master/machinelearning/DigitsClassifier.ipynb):
+  - [Predicting Car Prices](https://github.com/willclist/Projects/blob/master/machinelearning/PredictingCarPrices.ipynb): Implement a k - nearest neightbours algorithm to predict a car's market price from an automobile dataset containing several interesting features.
+  - [Building a Handwritten Digits Classifier](https://github.com/willclist/Projects/blob/master/machinelearning/DigitsClassifier.ipynb): Using the built in function load_digits() (from scikit_) test different neural network models on to explore the complexity and limitations of image classification, then use multiple choices of hidden layers to understand how to optimise accuracy.
   
-  *Tools: tensorflow, scikit_, scipy, Pandas*
+  *Tools: Tensorflow, scikit_, Scipy, Pandas*
 
 - ### SQL
-	- __Python__
-		- [SQL Business Analysis](https://github.com/willclist/Projects/blob/master/sql/SQLBusinessAnalysis2.ipynb): 
+
+	- [SQL Business Analysis](https://github.com/willclist/Projects/blob/master/sql/SQLBusinessAnalysis2.ipynb): Uses SQL queries to extract relevant data and visualise them within several plots to gain information about clienteles’ purchases of albums and songs.
   
   *Tools: SQLite, PySpark*
 
