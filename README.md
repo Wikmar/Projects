@@ -22,7 +22,7 @@ _Note: Data directory is used for demonstration purposes only._
   - [Predicting Car Prices](https://github.com/willclist/Projects/blob/master/machinelearning/PredictingCarPrices.ipynb): Implement a k - nearest neightbours algorithm to predict a car's market price from an automobile dataset containing several interesting features.
   - [Building a Handwritten Digits Classifier](https://github.com/willclist/Projects/blob/master/machinelearning/DigitsClassifier.ipynb): Using the built in function load_digits() (from scikit_) test different neural network models on to explore the complexity and limitations of image classification, then use multiple choices of hidden layers to understand how to optimise accuracy.
   
-  *Tools: Tensorflow, scikit_, Scipy, Pandas*
+  *Tools: Tensorflow, scikit_, Numpy, Pandas*
 
 - ### SQL
 
